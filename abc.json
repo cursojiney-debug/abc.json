@@ -5,5 +5,6 @@
   "API_UTKARSH": "https://xrealapi-a407eba3fb12.herokuapp.com/",
   "APPX_ZIP": "https://apxip-api-a-9b6aa2b456fc.herokuapp.com/",
   "ZIP_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzY0MTQ2NDMzMyIsInRnX3VzZXJuYW1lIjoidWcifQ._zMHJdDtqXEhSjY4Du9iUigNnkE9hSsHiPyygGoarBU",
-  "VPS": "https://backgrounds-adopt-thought-schema.trycloudflare.com/"
+  "VPS": "https://backgrounds-adopt-thought-schema.trycloudflare.com/",
+  "TR": "https://toprankersx-043d8a064134.herokuapp.com"
 }
