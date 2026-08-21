@@ -1,5 +1,4 @@
 {
-  "API_CLASSPLUS": "https://classplusxapi-v2-dca9f5faf192.herokuapp.com/classplus/get?",
-  "APPXDL": "https://appxwebsi-v2-4fc9a71b070f.herokuapp.com",
-  "APPX_ZIP": "https://appxwebsi-v2-4fc9a71b070f.herokuapp.com"
+  "API_CLASSPLUS": "https://iapix-4af3d150a96a.herokuapp.com/classplus/get?",
+  "APPXDL": "https://iapix-4af3d150a96a.herokuapp.com"
 }
